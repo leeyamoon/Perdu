@@ -1,1 +1,2 @@
-# Empty Project
+# Perdu
+ A point-and-click game
